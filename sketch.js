@@ -1,5 +1,5 @@
 var Engine = Matter.Engine,
- World = Matter.World,
+const World = Matter.World,
  Events = Matter.Events,
  Bodies = Matter.Bodies; 
 var particles = [];
